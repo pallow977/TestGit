@@ -8,6 +8,10 @@ public class TestClass1 {
 		System.out.println("this is a day 2 project");
 		
 		System.out.println("this is another test");
+		
+		System.out.println("Last one");
+		
+		
 	}
 
 }
